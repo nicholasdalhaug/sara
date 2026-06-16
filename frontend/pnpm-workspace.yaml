@@ -1,1 +1,4 @@
 minimumReleaseAge: 7200
+overrides:
+  react-router@>=7.12.0 <7.15.1: '>=7.15.1'
+  vite@>=8.0.0 <=8.0.15: '>=8.0.16'
